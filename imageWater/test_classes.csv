@@ -1,0 +1,21 @@
+filename, chemical-water, dry-water, normal-water, oil-contaminated-water, polluted-water
+test_imagen_1_ polluted-water.jpg,0,0,0,0,1
+test_imagen_1_ chemical-water.jpg,1,0,0,0,0
+test_imagen_1_ normal-water.jpg,0,0,1,0,0
+test_imagen_2_ polluted-water.jpg,0,0,0,0,1
+test_imagen_2_ normal-water.jpg,0,0,1,0,0
+test_imagen_3_ polluted-water.jpg,0,0,0,0,1
+test_imagen_2_ chemical-water.jpg,1,0,0,0,0
+test_imagen_4_ polluted-water.jpg,0,0,0,0,1
+test_imagen_1_ dry-water.jpg,0,1,0,0,0
+test_imagen_1_ oil-contaminated-water.jpg,0,0,0,1,0
+test_imagen_3_ chemical-water.jpg,1,0,0,0,0
+test_imagen_5_ polluted-water.jpg,0,0,0,0,1
+test_imagen_2_ oil-contaminated-water.jpg,0,0,0,1,0
+test_imagen_2_ dry-water.jpg,0,1,0,0,0
+test_imagen_3_ dry-water.jpg,0,1,0,0,0
+test_imagen_4_ chemical-water.jpg,1,0,0,0,0
+test_imagen_3_ oil-contaminated-water.jpg,0,0,0,1,0
+test_imagen_5_ chemical-water.jpg,1,0,0,0,0
+test_imagen_6_ chemical-water.jpg,1,0,0,0,0
+test_imagen_4_ dry-water.jpg,0,1,0,0,0
